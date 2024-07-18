@@ -10,5 +10,6 @@ public class DateMain {
         System.out.println(date);
         System.out.println(date1);
         System.out.println(date2);
+        System.out.println();
     }
 }
